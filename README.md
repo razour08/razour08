@@ -25,4 +25,4 @@ Experienced developer focused on bridging **Industrial Automation** with **Enter
 * **Auto-Cloud Script:** Shell script for high-performance ARM instance provisioning.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/ramzi-dekali-394482264) | [Portfolio] | [Contact Me]
+[LinkedIn](https://www.linkedin.com/in/ramzi-dekali-39448264/) | [Portfolio] | [Contact Me]
