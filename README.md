@@ -14,15 +14,24 @@ Experienced developer focused on bridging **Industrial Automation** with **Enter
 - ☁️ Skilled in Cloud Infrastructure & Automation (Oracle Cloud ARM instances).
 
 ### 📊 GitHub Stats
-![Ramzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=razour08&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razour08&layout=compact&theme=tokyonight)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=razour08&show_icons=true&theme=tokyonight&count_private=true" alt="Ramzi's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razour08&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+### 🏗️ Industrial Automation Stack
+- **SCADA/HMI:** Expert in `Rapid SCADA` and creating interactive mimics.
+- **Condition Monitoring:** Integrating `Siemens CMS X-Tools` for vibration analysis.
+- **IoT Gateways:** Data orchestration using `Node-RED` and `OPC UA`.
+- **Notifications:** Custom Telegram Bot integration for industrial real-time alerts.
 
 ### 🛠 Recent Projects & Focus
 * **Odoo Algerian Accounting:** Built to handle complex fiscal stamps and tax laws.
 * **Industrial Bot:** Telegram alerting system for cement plant vibration monitoring.
 * **Auto-Cloud Script:** Shell script for high-performance ARM instance provisioning.
 
----
-[LinkedIn](https://www.linkedin.com/in/ramzi-dekali-39448264/) | [Portfolio] | [Contact Me]
+### 🌐 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/ramzi-dekali-394482264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzi-dekali" height="30" width="40" /></a>
+<a href="mailto:ramzidekali@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ramzi-dekali" height="30" width="40" /></a>
+</p>
