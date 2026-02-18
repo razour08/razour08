@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🛡️ Ramzi Dekali | Tech Solutions Architect
 
-<!--
-**razour08/razour08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+Experienced developer focused on bridging **Industrial Automation** with **Enterprise Software (ERP)**. 
+- 🚀 Expert in **Odoo** module development & Algerian fiscal localization.
+- ⚙️ Specialized in **Industrial IoT** (Siemens CMS, Node-RED, SCADA integration).
+- ☁️ Skilled in Cloud Infrastructure & Automation (Oracle Cloud ARM instances).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Ramzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=razour08&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razour08&layout=compact&theme=tokyonight)
+
+---
+
+### 🛠 Recent Projects & Focus
+* **Odoo Algerian Accounting:** Built to handle complex fiscal stamps and tax laws.
+* **Industrial Bot:** Telegram alerting system for cement plant vibration monitoring.
+* **Auto-Cloud Script:** Shell script for high-performance ARM instance provisioning.
+
+---
+[LinkedIn](https://www.linkedin.com/in/ramzi-dekali-394482264) | [Portfolio] | [Contact Me]
