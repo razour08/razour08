@@ -32,6 +32,6 @@ Experienced developer focused on bridging **Industrial Automation** with **Enter
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/ramzi-dekali-394482264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzi-dekali" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/ramzi-dekali-394482264](https://www.linkedin.com/in/ramzi-dekali-39448264)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzi-dekali" height="30" width="40" /></a>
 <a href="mailto:ramzidekali@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ramzi-dekali" height="30" width="40" /></a>
 </p>
